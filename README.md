@@ -1,7 +1,7 @@
 # Test
 this is a test repo
 ## Features
- <p style="color:red">- [ ] Feature 1</p>
-- [ ] <p style="color:red">Feature 2</p>
-- [ ] <p style="color:red">Feature 3</p>
+- [ ] Feature 1
+- [ ] Feature 2
+- [ ] Feature 3
 You can find the previous version [**here**](git@github.com:OssamaR/test.git)
